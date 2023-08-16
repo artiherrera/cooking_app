@@ -1,0 +1,7 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=2.2.3
+prefix: /Applications/anaconda3/envs/cookiecutter-personal

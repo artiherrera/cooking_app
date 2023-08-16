@@ -1,0 +1,8 @@
+{
+    "project_title": "simple_app",
+    "project_slug": "simple_app",
+    "project_description": "simple_app",
+    "project_author": "@RealArturoH",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.9"
+}
